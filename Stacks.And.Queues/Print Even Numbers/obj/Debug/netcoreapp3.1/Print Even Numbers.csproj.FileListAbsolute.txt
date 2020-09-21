@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.genruntimeconfig.cache

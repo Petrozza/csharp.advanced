@@ -1,0 +1,22 @@
+static int[, ] FillMatrix(int[,] matrix)
+        {
+            for (int row = 0; row < matrix.GetLength(0); row++)
+            {
+                int[] input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    matrix[row, col] = input[col];
+                }
+            }
+            return matrix;
+        }
+
+
+ static bool IsValid(char[,] matrix, int neededRow, int needeCol)
+        {
+            return neededRow >= 0 && neededRow < matrix.GetLength(0)
+                && needeCol >= 0 && needeCol < matrix.GetLength(1);
+
+        }
+

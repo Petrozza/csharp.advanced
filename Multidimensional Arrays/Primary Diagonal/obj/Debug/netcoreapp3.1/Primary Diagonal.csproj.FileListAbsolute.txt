@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.genruntimeconfig.cache

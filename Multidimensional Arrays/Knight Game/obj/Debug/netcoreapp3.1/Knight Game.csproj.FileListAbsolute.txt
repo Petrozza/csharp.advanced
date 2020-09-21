@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.genruntimeconfig.cache

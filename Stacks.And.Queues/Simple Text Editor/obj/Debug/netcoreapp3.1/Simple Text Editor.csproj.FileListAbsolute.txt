@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.genruntimeconfig.cache

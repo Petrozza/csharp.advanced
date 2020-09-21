@@ -1,0 +1,12 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Stacks.And.Queues\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.genruntimeconfig.cache

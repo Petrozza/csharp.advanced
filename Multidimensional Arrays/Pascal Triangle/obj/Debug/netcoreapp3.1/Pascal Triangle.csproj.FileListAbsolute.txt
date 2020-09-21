@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\bin\Debug\netcoreapp3.1\Pascal Triangle.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\Multidimensional Arrays\Pascal Triangle\obj\Debug\netcoreapp3.1\Pascal Triangle.genruntimeconfig.cache
