@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.genruntimeconfig.cache

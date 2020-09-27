@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.genruntimeconfig.cache

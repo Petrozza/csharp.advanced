@@ -1,0 +1,12 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.genruntimeconfig.cache

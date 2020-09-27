@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.genruntimeconfig.cache

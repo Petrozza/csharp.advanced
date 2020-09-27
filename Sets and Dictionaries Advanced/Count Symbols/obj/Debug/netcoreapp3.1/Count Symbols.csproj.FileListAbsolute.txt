@@ -1,0 +1,12 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.genruntimeconfig.cache

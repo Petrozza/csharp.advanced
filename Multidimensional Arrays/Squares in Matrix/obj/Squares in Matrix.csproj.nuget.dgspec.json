@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Squares in Matrix\\Squares in Matrix.csproj": {}
+    "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Squares in Matrix\\Squares in Matrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Squares in Matrix\\Squares in Matrix.csproj": {
+    "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Squares in Matrix\\Squares in Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Squares in Matrix\\Squares in Matrix.csproj",
+        "projectUniqueName": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Squares in Matrix\\Squares in Matrix.csproj",
         "projectName": "Squares in Matrix",
-        "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Squares in Matrix\\Squares in Matrix.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Squares in Matrix\\obj\\",
+        "projectPath": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Squares in Matrix\\Squares in Matrix.csproj",
+        "packagesPath": "d:\\Users\\ro22000086\\.nuget\\packages\\",
+        "outputPath": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Squares in Matrix\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "d:\\Users\\ro22000086\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

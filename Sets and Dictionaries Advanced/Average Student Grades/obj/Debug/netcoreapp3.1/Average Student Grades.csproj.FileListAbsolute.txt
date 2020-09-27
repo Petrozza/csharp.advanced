@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\bin\Debug\netcoreapp3.1\Even Times.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Even Times\obj\Debug\netcoreapp3.1\Even Times.genruntimeconfig.cache

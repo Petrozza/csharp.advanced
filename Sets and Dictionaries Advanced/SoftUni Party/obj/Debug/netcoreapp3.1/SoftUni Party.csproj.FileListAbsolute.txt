@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.genruntimeconfig.cache

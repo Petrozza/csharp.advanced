@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Pascal Triangle\\Pascal Triangle.csproj": {}
+    "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Pascal Triangle\\Pascal Triangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Pascal Triangle\\Pascal Triangle.csproj": {
+    "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Pascal Triangle\\Pascal Triangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Pascal Triangle\\Pascal Triangle.csproj",
+        "projectUniqueName": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Pascal Triangle\\Pascal Triangle.csproj",
         "projectName": "Pascal Triangle",
-        "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Pascal Triangle\\Pascal Triangle.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\Multidimensional Arrays\\Pascal Triangle\\obj\\",
+        "projectPath": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Pascal Triangle\\Pascal Triangle.csproj",
+        "packagesPath": "d:\\Users\\ro22000086\\.nuget\\packages\\",
+        "outputPath": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Multidimensional Arrays\\Pascal Triangle\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "d:\\Users\\ro22000086\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
