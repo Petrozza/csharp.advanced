@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp3.1\Applied Arithmetics.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp3.1\Applied Arithmetics.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp3.1\Applied Arithmetics.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp3.1\Applied Arithmetics.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp3.1\Applied Arithmetics.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\bin\Debug\netcoreapp3.1\Applied Arithmetics.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp3.1\Applied Arithmetics.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp3.1\Applied Arithmetics.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp3.1\Applied Arithmetics.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp3.1\Applied Arithmetics.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp3.1\Applied Arithmetics.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp3.1\Applied Arithmetics.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Applied Arithmetics\obj\Debug\netcoreapp3.1\Applied Arithmetics.genruntimeconfig.cache

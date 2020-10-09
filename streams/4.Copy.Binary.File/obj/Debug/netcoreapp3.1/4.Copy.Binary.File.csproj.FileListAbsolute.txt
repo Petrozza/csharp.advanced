@@ -1,0 +1,12 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\bin\Debug\netcoreapp3.1\4.Copy.Binary.File.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\bin\Debug\netcoreapp3.1\4.Copy.Binary.File.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\bin\Debug\netcoreapp3.1\4.Copy.Binary.File.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\bin\Debug\netcoreapp3.1\4.Copy.Binary.File.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\bin\Debug\netcoreapp3.1\4.Copy.Binary.File.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\bin\Debug\netcoreapp3.1\4.Copy.Binary.File.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\obj\Debug\netcoreapp3.1\4.Copy.Binary.File.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\obj\Debug\netcoreapp3.1\4.Copy.Binary.File.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\obj\Debug\netcoreapp3.1\4.Copy.Binary.File.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\obj\Debug\netcoreapp3.1\4.Copy.Binary.File.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\obj\Debug\netcoreapp3.1\4.Copy.Binary.File.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\streams\4.Copy.Binary.File\obj\Debug\netcoreapp3.1\4.Copy.Binary.File.genruntimeconfig.cache

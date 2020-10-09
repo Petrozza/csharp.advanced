@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.genruntimeconfig.cache

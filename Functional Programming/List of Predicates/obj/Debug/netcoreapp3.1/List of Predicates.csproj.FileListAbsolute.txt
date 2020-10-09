@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.genruntimeconfig.cache

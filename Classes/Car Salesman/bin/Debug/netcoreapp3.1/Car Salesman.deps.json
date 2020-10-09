@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Car Salesman/1.0.0": {
+        "runtime": {
+          "Car Salesman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car Salesman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

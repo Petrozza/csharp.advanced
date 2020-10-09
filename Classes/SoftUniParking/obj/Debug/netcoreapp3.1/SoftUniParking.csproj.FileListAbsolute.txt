@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache

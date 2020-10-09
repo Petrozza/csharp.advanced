@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Sets and Dictionaries Advanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.genruntimeconfig.cache

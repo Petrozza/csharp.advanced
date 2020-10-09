@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\bin\Debug\netcoreapp3.1\Action Print.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\bin\Debug\netcoreapp3.1\Action Print.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\bin\Debug\netcoreapp3.1\Action Print.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\bin\Debug\netcoreapp3.1\Action Print.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\bin\Debug\netcoreapp3.1\Action Print.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\bin\Debug\netcoreapp3.1\Action Print.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\obj\Debug\netcoreapp3.1\Action Print.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\obj\Debug\netcoreapp3.1\Action Print.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\obj\Debug\netcoreapp3.1\Action Print.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\obj\Debug\netcoreapp3.1\Action Print.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\obj\Debug\netcoreapp3.1\Action Print.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\obj\Debug\netcoreapp3.1\Action Print.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Action Print\obj\Debug\netcoreapp3.1\Action Print.genruntimeconfig.cache

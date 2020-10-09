@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\bin\Debug\netcoreapp3.1\Santa's Present Factory.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\bin\Debug\netcoreapp3.1\Santa's Present Factory.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\bin\Debug\netcoreapp3.1\Santa's Present Factory.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\bin\Debug\netcoreapp3.1\Santa's Present Factory.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\bin\Debug\netcoreapp3.1\Santa's Present Factory.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\bin\Debug\netcoreapp3.1\Santa's Present Factory.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\obj\Debug\netcoreapp3.1\Santa's Present Factory.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\obj\Debug\netcoreapp3.1\Santa's Present Factory.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\obj\Debug\netcoreapp3.1\Santa's Present Factory.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\obj\Debug\netcoreapp3.1\Santa's Present Factory.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\obj\Debug\netcoreapp3.1\Santa's Present Factory.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\obj\Debug\netcoreapp3.1\Santa's Present Factory.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Santa's Present Factory\obj\Debug\netcoreapp3.1\Santa's Present Factory.genruntimeconfig.cache

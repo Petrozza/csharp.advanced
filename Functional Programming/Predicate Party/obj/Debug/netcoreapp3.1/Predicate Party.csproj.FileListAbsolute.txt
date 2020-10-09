@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\obj\Debug\netcoreapp3.1\Predicate Party.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\obj\Debug\netcoreapp3.1\Predicate Party.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\obj\Debug\netcoreapp3.1\Predicate Party.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\obj\Debug\netcoreapp3.1\Predicate Party.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\bin\Debug\netcoreapp3.1\Predicate Party.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\bin\Debug\netcoreapp3.1\Predicate Party.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\bin\Debug\netcoreapp3.1\Predicate Party.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\bin\Debug\netcoreapp3.1\Predicate Party.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\bin\Debug\netcoreapp3.1\Predicate Party.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\bin\Debug\netcoreapp3.1\Predicate Party.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\obj\Debug\netcoreapp3.1\Predicate Party.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\obj\Debug\netcoreapp3.1\Predicate Party.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Predicate Party\obj\Debug\netcoreapp3.1\Predicate Party.genruntimeconfig.cache

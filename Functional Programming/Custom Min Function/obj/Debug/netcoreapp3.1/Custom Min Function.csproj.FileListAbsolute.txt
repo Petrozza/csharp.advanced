@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\bin\Debug\netcoreapp3.1\Custom Min Function.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\bin\Debug\netcoreapp3.1\Custom Min Function.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\bin\Debug\netcoreapp3.1\Custom Min Function.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\bin\Debug\netcoreapp3.1\Custom Min Function.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\bin\Debug\netcoreapp3.1\Custom Min Function.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\bin\Debug\netcoreapp3.1\Custom Min Function.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\obj\Debug\netcoreapp3.1\Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\obj\Debug\netcoreapp3.1\Custom Min Function.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\obj\Debug\netcoreapp3.1\Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\obj\Debug\netcoreapp3.1\Custom Min Function.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\obj\Debug\netcoreapp3.1\Custom Min Function.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\obj\Debug\netcoreapp3.1\Custom Min Function.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Functional Programming\Custom Min Function\obj\Debug\netcoreapp3.1\Custom Min Function.csprojAssemblyReference.cache

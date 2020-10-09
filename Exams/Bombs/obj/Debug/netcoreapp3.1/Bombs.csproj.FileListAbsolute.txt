@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Bombs\obj\Debug\netcoreapp3.1\Bombs.genruntimeconfig.cache
