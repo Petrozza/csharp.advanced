@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\Bee.csproj": {}
+    "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\Bee.csproj": {}
   },
   "projects": {
-    "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\Bee.csproj": {
+    "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\Bee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\Bee.csproj",
+        "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\Bee.csproj",
         "projectName": "Bee",
-        "projectPath": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\Bee.csproj",
-        "packagesPath": "d:\\Users\\ro22000086\\.nuget\\packages\\",
-        "outputPath": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\obj\\",
+        "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\Bee.csproj",
+        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Exams\\Bee\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "d:\\Users\\ro22000086\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

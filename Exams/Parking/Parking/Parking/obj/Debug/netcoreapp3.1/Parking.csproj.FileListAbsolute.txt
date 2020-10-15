@@ -1,0 +1,13 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Parking\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

@@ -28,9 +28,9 @@ namespace Car_Salesman
         {
             StringBuilder builder = new StringBuilder();
             builder.AppendLine($"{Model}:");
-            builder.AppendLine($"Power: {Power}");
-            builder.AppendLine($"Displacement: {Displacement}");
-            builder.AppendLine($"Efficiency: {Efficiency}");
+            builder.AppendLine($"    Power: {Power}");
+            builder.AppendLine($"    Displacement: {Displacement}");
+            builder.AppendLine($"    Efficiency: {Efficiency}");
 
             return builder.ToString().TrimEnd();
 

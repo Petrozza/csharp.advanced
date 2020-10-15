@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "d:\\Users\\ro22000086\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Classes\\SoftUniParking\\SoftUniParking.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Classes\\SoftUniParking\\SoftUniParking.csproj",
       "projectName": "SoftUniParking",
-      "projectPath": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Classes\\SoftUniParking\\SoftUniParking.csproj",
-      "packagesPath": "d:\\Users\\ro22000086\\.nuget\\packages\\",
-      "outputPath": "d:\\Users\\ro22000086\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Classes\\SoftUniParking\\obj\\",
+      "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Classes\\SoftUniParking\\SoftUniParking.csproj",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\Classes\\SoftUniParking\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "d:\\Users\\ro22000086\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

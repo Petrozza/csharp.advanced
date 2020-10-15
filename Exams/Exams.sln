@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lootbox", "Lootbox\Lootbox.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Re-Volt", "Re-Volt\Re-Volt.csproj", "{54836E81-B5EF-47BF-8650-47DA00F117AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santa's Present Factory", "Santa's Present Factory\Santa's Present Factory.csproj", "{232DCFF5-A059-4C2B-96A4-160566408EBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Santa's Present Factory", "Santa's Present Factory\Santa's Present Factory.csproj", "{232DCFF5-A059-4C2B-96A4-160566408EBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking", "Parking\Parking.csproj", "{4E483FF8-745D-4F68-A6AB-E4E0798C947C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guild", "Guild\Guild.csproj", "{2413F80D-265D-40B9-A670-99B803D81AAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{232DCFF5-A059-4C2B-96A4-160566408EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{232DCFF5-A059-4C2B-96A4-160566408EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{232DCFF5-A059-4C2B-96A4-160566408EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E483FF8-745D-4F68-A6AB-E4E0798C947C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E483FF8-745D-4F68-A6AB-E4E0798C947C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E483FF8-745D-4F68-A6AB-E4E0798C947C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E483FF8-745D-4F68-A6AB-E4E0798C947C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2413F80D-265D-40B9-A670-99B803D81AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2413F80D-265D-40B9-A670-99B803D81AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2413F80D-265D-40B9-A670-99B803D81AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2413F80D-265D-40B9-A670-99B803D81AAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -26,8 +26,8 @@ namespace Car_Salesman
         public override string ToString()
         {
             StringBuilder builder = new StringBuilder();
-            builder.AppendLine($"{this.Model}:");
-            builder.AppendLine($"  {Engine}:");
+            builder.AppendLine($"{Model}:");
+            builder.AppendLine($"  {Engine}");
             builder.AppendLine($"  Weight: {Weight}");
             builder.AppendLine($"  Color: {Color}");
 

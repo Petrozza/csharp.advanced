@@ -11,3 +11,16 @@ d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Cla
 d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.dll
 d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.pdb
 d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\bin\Debug\netcoreapp3.1\Car Salesman.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\bin\Debug\netcoreapp3.1\Car Salesman.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\bin\Debug\netcoreapp3.1\Car Salesman.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\bin\Debug\netcoreapp3.1\Car Salesman.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\bin\Debug\netcoreapp3.1\Car Salesman.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\bin\Debug\netcoreapp3.1\Car Salesman.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Classes\Car Salesman\obj\Debug\netcoreapp3.1\Car Salesman.genruntimeconfig.cache

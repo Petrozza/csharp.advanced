@@ -1,19 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Raw_Data
+﻿
+namespace DefiningClasses
 {
     public class Cargo
     {
-
         public Cargo(int cargoWeight, string cargoType)
         {
             CargoWeight = cargoWeight;
-            CargoType = cargoType;
+            GargoType = cargoType;
         }
 
         public int CargoWeight { get; set; }
-        public string CargoType { get; set; }
+        public string GargoType { get; set; }
     }
 }

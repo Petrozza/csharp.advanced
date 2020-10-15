@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Guild\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache

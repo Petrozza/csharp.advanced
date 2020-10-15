@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache
