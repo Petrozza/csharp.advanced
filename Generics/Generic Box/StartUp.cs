@@ -11,8 +11,8 @@ namespace Generics
 
             for (int i = 0; i < n; i++)
             {
-                int input = int.Parse(Console.ReadLine());
-                Box<int> box = new Box<int>(input);
+                string input = Console.ReadLine();
+                Box<string> box = new Box<string>(input);
                 Console.WriteLine(box);
             }
         }

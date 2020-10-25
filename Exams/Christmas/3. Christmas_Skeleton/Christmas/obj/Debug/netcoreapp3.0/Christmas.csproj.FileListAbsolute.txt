@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\bin\Debug\netcoreapp3.0\Christmas.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\bin\Debug\netcoreapp3.0\Christmas.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\bin\Debug\netcoreapp3.0\Christmas.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\bin\Debug\netcoreapp3.0\Christmas.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\bin\Debug\netcoreapp3.0\Christmas.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\bin\Debug\netcoreapp3.0\Christmas.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\obj\Debug\netcoreapp3.0\Christmas.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\obj\Debug\netcoreapp3.0\Christmas.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\obj\Debug\netcoreapp3.0\Christmas.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\obj\Debug\netcoreapp3.0\Christmas.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\obj\Debug\netcoreapp3.0\Christmas.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\obj\Debug\netcoreapp3.0\Christmas.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\3. Christmas_Skeleton\Christmas\obj\Debug\netcoreapp3.0\Christmas.genruntimeconfig.cache

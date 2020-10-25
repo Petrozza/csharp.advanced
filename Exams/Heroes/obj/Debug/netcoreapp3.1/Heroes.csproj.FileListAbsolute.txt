@@ -1,0 +1,4 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\obj\Debug\netcoreapp3.1\Heroes.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache

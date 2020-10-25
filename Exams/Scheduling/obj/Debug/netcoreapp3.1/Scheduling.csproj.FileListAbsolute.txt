@@ -1,0 +1,26 @@
+C:\Users\angel\source\repos\Scheduling\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+C:\Users\angel\source\repos\Scheduling\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+C:\Users\angel\source\repos\Scheduling\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+C:\Users\angel\source\repos\Scheduling\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+C:\Users\angel\source\repos\Scheduling\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\angel\source\repos\Scheduling\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\angel\source\repos\Scheduling\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\Scheduling\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Scheduling\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+C:\Users\angel\source\repos\Scheduling\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Scheduling\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\angel\source\repos\Scheduling\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\angel\source\repos\Scheduling\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.genruntimeconfig.cache

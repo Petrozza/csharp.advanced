@@ -1,0 +1,12 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Heroes\Heroes_Скелет\obj\Debug\netcoreapp2.1\Heroes.genruntimeconfig.cache

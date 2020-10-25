@@ -1,0 +1,4 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\obj\Debug\netcoreapp3.1\Christmas.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\obj\Debug\netcoreapp3.1\Christmas.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\obj\Debug\netcoreapp3.1\Christmas.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Christmas\obj\Debug\netcoreapp3.1\Christmas.csproj.CoreCompileInputs.cache

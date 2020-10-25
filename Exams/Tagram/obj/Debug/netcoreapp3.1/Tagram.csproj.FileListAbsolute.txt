@@ -1,0 +1,26 @@
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.exe
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.deps.json
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.runtimeconfig.json
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.runtimeconfig.dev.json
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.dll
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.pdb
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.csprojAssemblyReference.cache
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.AssemblyInfoInputs.cache
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.AssemblyInfo.cs
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.csproj.CoreCompileInputs.cache
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.dll
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.pdb
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\bin\Debug\netcoreapp3.1\Tagram.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\Exams\Tagram\obj\Debug\netcoreapp3.1\Tagram.genruntimeconfig.cache

@@ -9,8 +9,8 @@ namespace VetClinic
 {
     class Clinic
     {
-        private List<Pet> data;
-        private int count;
+        private readonly List<Pet> data;
+        //int Count;
 
         public Clinic(int capacity)
         {
@@ -20,10 +20,7 @@ namespace VetClinic
 
         public List<Pet> Data { get; set; }
         public int Capacity { get; set; }
-        public int Count
-        {
-            get { return Data.Count; }
-        }
+        public int Count => Data.Count;
 
         public void Add(Pet pet)
         {
@@ -40,7 +37,6 @@ namespace VetClinic
             if (isExist)
             {
                 Pet currentPet = Data.FirstOrDefault(x => x.Name == name);
-                Data.Remove(currentPet);
             }
             return isExist;
         }
@@ -66,7 +62,7 @@ namespace VetClinic
         public string GetStatistics()
         {
             StringBuilder bb = new StringBuilder();
-            bb.AppendLine($"The clinic has the following patients: ");
+            bb.AppendLine($"The clinic has the following patients:");
             foreach (var pet in Data)
             {
                 bb.AppendLine($"Pet {pet.Name} with owner: {pet.Owner}");
