@@ -1,0 +1,3 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Animals\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Animals\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Animals\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
