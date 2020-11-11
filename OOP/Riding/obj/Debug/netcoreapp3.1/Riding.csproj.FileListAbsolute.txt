@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\bin\Debug\netcoreapp3.1\Riding.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\bin\Debug\netcoreapp3.1\Riding.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\bin\Debug\netcoreapp3.1\Riding.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\bin\Debug\netcoreapp3.1\Riding.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\bin\Debug\netcoreapp3.1\Riding.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\bin\Debug\netcoreapp3.1\Riding.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\obj\Debug\netcoreapp3.1\Riding.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\obj\Debug\netcoreapp3.1\Riding.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\obj\Debug\netcoreapp3.1\Riding.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\obj\Debug\netcoreapp3.1\Riding.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\obj\Debug\netcoreapp3.1\Riding.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\obj\Debug\netcoreapp3.1\Riding.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Riding\obj\Debug\netcoreapp3.1\Riding.genruntimeconfig.cache

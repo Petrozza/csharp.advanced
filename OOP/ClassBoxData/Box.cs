@@ -38,7 +38,7 @@ namespace ClassBoxData
         {
             get
             {
-                return this.width;
+                return width;
             }
 
             private set

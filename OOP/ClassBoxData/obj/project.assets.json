@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Encapsulation - Lab/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Encapsulation - Lab.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encapsulation - Lab.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Encapsulation - Lab/1.0.0": {
+      "type": "project",
+      "path": "../PersonsInfo/Encapsulation - Lab.csproj",
+      "msbuildProject": "../PersonsInfo/Encapsulation - Lab.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Encapsulation - Lab >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\angel\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\OOP\\PersonsInfo\\Encapsulation - Lab.csproj": {
+              "projectPath": "C:\\Users\\angel\\Google Drive\\programming\\CSharp.Advanced\\csharp.advanced\\OOP\\PersonsInfo\\Encapsulation - Lab.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

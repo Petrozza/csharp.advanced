@@ -1,0 +1,24 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

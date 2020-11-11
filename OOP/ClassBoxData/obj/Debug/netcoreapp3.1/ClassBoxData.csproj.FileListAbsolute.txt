@@ -10,3 +10,8 @@ C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Clas
 C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
 C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
 C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\ClassBoxData\bin\Debug\netcoreapp3.1\Encapsulation - Lab.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\ClassBoxData\bin\Debug\netcoreapp3.1\Encapsulation - Lab.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\ClassBoxData\bin\Debug\netcoreapp3.1\Encapsulation - Lab.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CopyComplete

@@ -1,0 +1,26 @@
+C:\Users\angel\Desktop\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\angel\Desktop\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\angel\Desktop\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\angel\Desktop\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\angel\Desktop\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\angel\Desktop\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\angel\Desktop\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\angel\Desktop\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\angel\Desktop\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\angel\Desktop\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Vehicles\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

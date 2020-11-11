@@ -1,0 +1,19 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\bin\Debug\netcoreapp3.1\Pizza Calories.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\bin\Debug\netcoreapp3.1\Pizza Calories.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\bin\Debug\netcoreapp3.1\Pizza Calories.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\bin\Debug\netcoreapp3.1\Pizza Calories.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\bin\Debug\netcoreapp3.1\Pizza Calories.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\bin\Debug\netcoreapp3.1\Pizza Calories.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Pizza Calories\obj\Debug\netcoreapp3.1\Pizza Calories.pdb

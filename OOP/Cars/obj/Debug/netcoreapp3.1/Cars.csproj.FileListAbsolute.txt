@@ -1,0 +1,26 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

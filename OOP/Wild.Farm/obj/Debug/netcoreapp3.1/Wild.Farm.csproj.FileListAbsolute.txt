@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\bin\Debug\netcoreapp3.1\Wild.Farm.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\bin\Debug\netcoreapp3.1\Wild.Farm.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\bin\Debug\netcoreapp3.1\Wild.Farm.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\bin\Debug\netcoreapp3.1\Wild.Farm.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\bin\Debug\netcoreapp3.1\Wild.Farm.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\bin\Debug\netcoreapp3.1\Wild.Farm.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\obj\Debug\netcoreapp3.1\Wild.Farm.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\obj\Debug\netcoreapp3.1\Wild.Farm.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\obj\Debug\netcoreapp3.1\Wild.Farm.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\obj\Debug\netcoreapp3.1\Wild.Farm.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\obj\Debug\netcoreapp3.1\Wild.Farm.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\obj\Debug\netcoreapp3.1\Wild.Farm.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Wild.Farm\obj\Debug\netcoreapp3.1\Wild.Farm.genruntimeconfig.cache

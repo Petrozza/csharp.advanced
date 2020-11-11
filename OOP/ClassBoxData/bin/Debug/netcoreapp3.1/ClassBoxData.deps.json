@@ -10,11 +10,21 @@
         "runtime": {
           "ClassBoxData.dll": {}
         }
+      },
+      "Encapsulation - Lab/1.0.0": {
+        "runtime": {
+          "Encapsulation - Lab.dll": {}
+        }
       }
     }
   },
   "libraries": {
     "ClassBoxData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulation - Lab/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

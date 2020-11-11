@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\bin\Debug\netcoreapp3.1\Military.Elite.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\bin\Debug\netcoreapp3.1\Military.Elite.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\bin\Debug\netcoreapp3.1\Military.Elite.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\bin\Debug\netcoreapp3.1\Military.Elite.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\bin\Debug\netcoreapp3.1\Military.Elite.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\bin\Debug\netcoreapp3.1\Military.Elite.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\obj\Debug\netcoreapp3.1\Military.Elite.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\obj\Debug\netcoreapp3.1\Military.Elite.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\obj\Debug\netcoreapp3.1\Military.Elite.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\obj\Debug\netcoreapp3.1\Military.Elite.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\obj\Debug\netcoreapp3.1\Military.Elite.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\obj\Debug\netcoreapp3.1\Military.Elite.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Military.Elite\obj\Debug\netcoreapp3.1\Military.Elite.genruntimeconfig.cache
