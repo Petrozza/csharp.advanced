@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\bin\Debug\netcoreapp3.1\Explicit.Interfaces.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\bin\Debug\netcoreapp3.1\Explicit.Interfaces.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\bin\Debug\netcoreapp3.1\Explicit.Interfaces.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\bin\Debug\netcoreapp3.1\Explicit.Interfaces.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\bin\Debug\netcoreapp3.1\Explicit.Interfaces.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\bin\Debug\netcoreapp3.1\Explicit.Interfaces.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\obj\Debug\netcoreapp3.1\Explicit.Interfaces.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\obj\Debug\netcoreapp3.1\Explicit.Interfaces.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\obj\Debug\netcoreapp3.1\Explicit.Interfaces.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\obj\Debug\netcoreapp3.1\Explicit.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\obj\Debug\netcoreapp3.1\Explicit.Interfaces.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\obj\Debug\netcoreapp3.1\Explicit.Interfaces.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Explicit.Interfaces\obj\Debug\netcoreapp3.1\Explicit.Interfaces.genruntimeconfig.cache

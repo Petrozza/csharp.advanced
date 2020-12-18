@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\12042020-unittest\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

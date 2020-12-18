@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.genruntimeconfig.cache

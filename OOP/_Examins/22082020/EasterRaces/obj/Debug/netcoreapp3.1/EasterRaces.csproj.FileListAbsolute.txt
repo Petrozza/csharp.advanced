@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\22082020\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache

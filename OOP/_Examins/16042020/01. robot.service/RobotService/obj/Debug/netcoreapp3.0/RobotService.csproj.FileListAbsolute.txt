@@ -1,0 +1,13 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\16042020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache

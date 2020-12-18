@@ -1,0 +1,12 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\bin\Debug\netcoreapp3.1\BankAccountTests.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\bin\Debug\netcoreapp3.1\BankAccountTests.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\bin\Debug\netcoreapp3.1\BankAccountTests.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\bin\Debug\netcoreapp3.1\BankAccountTests.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\bin\Debug\netcoreapp3.1\BankAccountTests.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\bin\Debug\netcoreapp3.1\BankAccountTests.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\obj\Debug\netcoreapp3.1\BankAccountTests.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\obj\Debug\netcoreapp3.1\BankAccountTests.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\obj\Debug\netcoreapp3.1\BankAccountTests.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\obj\Debug\netcoreapp3.1\BankAccountTests.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\obj\Debug\netcoreapp3.1\BankAccountTests.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\Unit-Testing-Lab\BankAccountTests\obj\Debug\netcoreapp3.1\BankAccountTests.genruntimeconfig.cache

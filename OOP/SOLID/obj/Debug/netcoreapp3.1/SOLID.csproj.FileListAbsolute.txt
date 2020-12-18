@@ -1,0 +1,26 @@
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.exe
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.deps.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.dev.json
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\angel\Google Drive\programming\CSharp.Advanced\csharp.advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.genruntimeconfig.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\bin\Debug\netcoreapp3.1\SOLID.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\SOLID\obj\Debug\netcoreapp3.1\SOLID.genruntimeconfig.cache

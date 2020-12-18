@@ -1,0 +1,13 @@
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.exe
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.deps.json
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.json
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.dev.json
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.dll
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.pdb
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.csprojAssemblyReference.cache
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfo.cs
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.dll
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.pdb
+D:\ACHO\MYDRIVE\programming\CSharp.Advanced\csharp.advanced\OOP\_Examins\20082020\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\bin\Debug\netcoreapp3.1\ReflectionDemo.exe
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\bin\Debug\netcoreapp3.1\ReflectionDemo.deps.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\bin\Debug\netcoreapp3.1\ReflectionDemo.runtimeconfig.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\bin\Debug\netcoreapp3.1\ReflectionDemo.runtimeconfig.dev.json
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\bin\Debug\netcoreapp3.1\ReflectionDemo.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\bin\Debug\netcoreapp3.1\ReflectionDemo.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\obj\Debug\netcoreapp3.1\ReflectionDemo.AssemblyInfoInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\obj\Debug\netcoreapp3.1\ReflectionDemo.AssemblyInfo.cs
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\obj\Debug\netcoreapp3.1\ReflectionDemo.csproj.CoreCompileInputs.cache
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\obj\Debug\netcoreapp3.1\ReflectionDemo.dll
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\obj\Debug\netcoreapp3.1\ReflectionDemo.pdb
+d:\Users\ro22000086\Google Drive\programming\CSharp.Advanced\csharp (1).advanced\OOP\Reflection\obj\Debug\netcoreapp3.1\ReflectionDemo.genruntimeconfig.cache
