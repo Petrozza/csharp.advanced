@@ -24,6 +24,7 @@ namespace Car_Salesman
         public string Color { get; set; }
 
         public override string ToString()
+        
         {
             StringBuilder builder = new StringBuilder();
             builder.AppendLine($"{Model}:");
